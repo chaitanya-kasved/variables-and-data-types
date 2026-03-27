@@ -1,0 +1,14 @@
+/home/ubuntu/Desktop/Projects/bin/Debug/net8.0/Projects
+/home/ubuntu/Desktop/Projects/bin/Debug/net8.0/Projects.deps.json
+/home/ubuntu/Desktop/Projects/bin/Debug/net8.0/Projects.runtimeconfig.json
+/home/ubuntu/Desktop/Projects/bin/Debug/net8.0/Projects.dll
+/home/ubuntu/Desktop/Projects/bin/Debug/net8.0/Projects.pdb
+/home/ubuntu/Desktop/Projects/obj/Debug/net8.0/Projects.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Desktop/Projects/obj/Debug/net8.0/Projects.AssemblyInfoInputs.cache
+/home/ubuntu/Desktop/Projects/obj/Debug/net8.0/Projects.AssemblyInfo.cs
+/home/ubuntu/Desktop/Projects/obj/Debug/net8.0/Projects.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/Projects/obj/Debug/net8.0/Projects.dll
+/home/ubuntu/Desktop/Projects/obj/Debug/net8.0/refint/Projects.dll
+/home/ubuntu/Desktop/Projects/obj/Debug/net8.0/Projects.pdb
+/home/ubuntu/Desktop/Projects/obj/Debug/net8.0/Projects.genruntimeconfig.cache
+/home/ubuntu/Desktop/Projects/obj/Debug/net8.0/ref/Projects.dll
